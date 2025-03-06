@@ -1,4 +1,4 @@
-# Employee Review System
+# 🏢 Employee Review System
 
 ## 📌 About the Project
 The **Employee Review System** is a web-based application that allows administrators to review employees and assign feedback. Employees can also review their peers and provide ratings based on their performance.
@@ -33,7 +33,6 @@ The **Employee Review System** is a web-based application that allows administra
 ### Employee Review Page
 ![4](https://github.com/user-attachments/assets/71dca21b-6013-4195-8ec8-0493915123a5)
 
-> 📌 **Note:** Upload screenshots inside a **`screenshots/`** folder in your GitHub repository.  
 
 ## ⚙️ Installation & Setup
 Follow these steps to run the project locally:
